@@ -6,9 +6,24 @@
   </a>
 </p>
 
-> A simple python3 trojan that will send gathered information to a discord webhook
+> A very simple python3 trojan that will send gathered information to a discord webhook
 
 ### 🏠 [Homepage](https://github.com/metaltiger775/Discord-Webhook-Trojan)
+
+## Features
+- IP grabber
+- Extracts IP information
+- VPN detection
+- Wifi Passwords
+- OS system informations
+- Screenshot
+- Hardware informations
+  - CPU
+  - GPU
+  - Motherboard
+  - RAM
+  - Storage
+- More coming soon (maybe)
 
 ## Install dependencies
 
@@ -22,12 +37,22 @@ pip install -r requirements.txt
 python discord_webhook_trojan.py
 ```
 
+# Good Python Obfuscators:
+- <https://github.com/htr-tech/PyObfuscate>
+- <https://github.com/Blank-c/BlankOBF>
+- <https://pyob.oxyry.com>
+- <https://github.com/0sir1ss/Anubis>
+
 ## Author
 
 👤 **metaltiger775**
 
+<img src="https://komarev.com/ghpvc/?username=metaltiger775&color=brightgreen" alt="watching_count" />
+
 * Website: https://github.com/metaltiger775
 * Github: [@metaltiger775](https://github.com/metaltiger775)
+
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/madushadhanushka?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 
 ## 🤝 Contributing
 
@@ -36,6 +61,8 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
+
+<img src="https://img.shields.io/github/stars/metaltiger775?label=Stars" alt="stars">
 
 ## 📝 License
 
