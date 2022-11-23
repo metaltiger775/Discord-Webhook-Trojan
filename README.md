@@ -33,6 +33,8 @@ pip install -r requirements.txt
 
 ## Usage
 
+Replace "YOUR_WEBHOOK_HERE" on line 11 with your discord webhook url
+
 ```sh
 python discord_webhook_trojan.py
 ```
