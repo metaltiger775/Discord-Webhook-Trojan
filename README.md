@@ -25,6 +25,11 @@
   - Storage
 - More coming soon (maybe)
 
+## Demo
+![image](https://github.com/metaltiger775/Discord-Webhook-Trojan/blob/main/1.PNG)
+![image2](https://github.com/metaltiger775/Discord-Webhook-Trojan/blob/main/2.PNG)
+![image3](https://github.com/metaltiger775/Discord-Webhook-Trojan/blob/main/3.PNG)
+
 ## Install dependencies
 
 ```sh
