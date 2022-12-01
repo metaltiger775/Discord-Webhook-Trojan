@@ -30,6 +30,19 @@
 ![image2](https://github.com/metaltiger775/Discord-Webhook-Trojan/blob/main/2.PNG)
 ![image3](https://github.com/metaltiger775/Discord-Webhook-Trojan/blob/main/3.PNG)
 
+## How to make a discord webhook
+1. Choose a channel and click on the gear wheel that says "Edit Channel"
+
+![image4](https://github.com/metaltiger775/Discord-Webhook-Trojan/blob/main/21.PNG)
+
+2. Go to the "Integrations" tab and click on "Create Webhook"
+
+![image5](https://github.com/metaltiger775/Discord-Webhook-Trojan/blob/main/22.PNG)
+
+3. Edit the webhook name and icon as you wish, and then click on "Copy Webhook URL" to copy the webhook URL and put it in the code
+
+![image6](https://github.com/metaltiger775/Discord-Webhook-Trojan/blob/main/23.PNG)
+
 ## Install dependencies
 
 ```sh
