@@ -75,7 +75,7 @@ python discord_webhook_trojan.py
 * Website: https://github.com/metaltiger775
 * Github: [@metaltiger775](https://github.com/metaltiger775)
 
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/madushadhanushka?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/metaltiger775?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 
 ## 🤝 Contributing
 
