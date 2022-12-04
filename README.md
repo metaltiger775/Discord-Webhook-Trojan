@@ -87,6 +87,8 @@ Give a ⭐️ if this project helped you!
 
 <img src="https://img.shields.io/github/stars/metaltiger775?label=Stars" alt="stars">
 
+[![Buymeacoffee](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.buymeacoffee.com/metaltiger775)
+
 ## 📝 License
 
 Copyright © 2022 [metaltiger775](https://github.com/metaltiger775).<br />
